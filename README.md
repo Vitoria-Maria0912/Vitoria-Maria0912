@@ -4,5 +4,11 @@
 
 <div>
     <img heigh="180cm" src="https://github-readme-stats.vercel.app/api?username=Vitoria-Maria0912&shows_Github_logo_instead_ranklevel=true&theme=tokyonight"/>
-    <img heigh="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitoria-Maria0912&layout=compact&theme=tokyonight"/>
 </div>
+
+### Technologies and Tools I use
+
+<div>
+    <img align="center" alt="Java" height="60" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+    <img align="center" alt="Python" height="60" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+<div/>
