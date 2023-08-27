@@ -4,7 +4,8 @@
     
 # Hi, I am Vitória Maria!
 
-### - I am a Computer Science studant, who loves to learn about new things, especially languages
+### - I am a Computer Science studant, 
+### who loves to learn about new things, especially languages
 
 <div>
     <img align="center" heigh="180cm" src="https://github-readme-stats.vercel.app/api?username=Vitoria-Maria0912&shows_Github_logo_instead_ranklevel=true&theme=tokyonight"/>
