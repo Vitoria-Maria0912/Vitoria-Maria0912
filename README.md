@@ -4,7 +4,7 @@
     
 # Hi, I am Vitória Maria!
 
-### - I am a Computer Science studant, 
+### I am a Computer Science studant
 ### who loves to learn about new things, especially languages
 
 <div>
