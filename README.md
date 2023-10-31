@@ -25,3 +25,13 @@
     <img align="center" alt="Python" height="60" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
     <img align="center" alt="Haskell" height="60" widht="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" />
 <div/>
+
+##
+
+<div> 
+
+  <a href = "mailto:vitoria.nascimento@ccc.ufcg.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:vihnascimento8642@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vit%C3%B3ria-maria-do-nascimento-258899255?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BpJ7mDSN9QuWfDyX4nccHTg%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div>
