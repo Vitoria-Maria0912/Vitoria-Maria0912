@@ -11,6 +11,13 @@
     <img align="center" heigh="180cm" src="https://github-readme-stats.vercel.app/api?username=Vitoria-Maria0912&shows_Github_logo_instead_ranklevel=true&theme=tokyonight"/>
 </div>
 
+
+
+</div>
+  
+[![@vitoria-maria0912's Holopin board](https://holopin.me/vitoriamaria0912)](https://holopin.io/@vitoriamaria0912)
+
+
 ### - Technologies
 
 <div>
@@ -18,7 +25,3 @@
     <img align="center" alt="Python" height="60" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
     <img align="center" alt="Haskell" height="60" widht="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" />
 <div/>
-
-</div>
-  
-[![@vitoria-maria0912's Holopin board](https://holopin.me/vitoriamaria0912)](https://holopin.io/@vitoriamaria0912)
