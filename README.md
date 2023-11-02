@@ -24,8 +24,7 @@
 [![@vitoria-maria0912's Holopin board](https://holopin.me/vitoriamaria0912)](https://holopin.io/@vitoriamaria0912)
 
 
-
-### - Technologies
+### - Languagens & Tools 
 
 <div>
     <img align="center" alt="Java" height="60" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
