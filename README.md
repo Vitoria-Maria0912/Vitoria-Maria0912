@@ -30,7 +30,5 @@
     <img align="center" alt="Java" height="60" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
     <img align="center" alt="Python" height="60" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
     <img align="center" alt="Haskell" height="60" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original-wordmark.svg" />
-<!--     <img align="center" alt="Haskell" height="60" widht="20"  -->
-            <i class="devicon-postgresql-plain-wordmark colored"></i>
-          
+    <img align="center" alt="Haskell" height="60" widht="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />          
 <div/>
