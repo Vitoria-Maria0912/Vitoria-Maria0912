@@ -29,7 +29,5 @@
 
 ### Let's get conected!
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/) VitóriaMaria#7307
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/) vitoria.nascimento@ccc.ufcg.edu.br
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vit%C3%B3ria-maria-do-nascimento-258899255?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BpJ7mDSN9QuWfDyX4nccHTg%3D%3D)
-
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/) VitóriaMaria#7307
