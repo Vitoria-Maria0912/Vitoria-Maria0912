@@ -4,8 +4,14 @@
     
 # Hi, I am Vitória Maria!
 
-### I am a Computer Science studant
+### I am a Computer Science undergraduate
 ### who loves to learn about new things, especially languages
+
+### Let's get conected!
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vit%C3%B3ria-maria-do-nascimento-258899255?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BpJ7mDSN9QuWfDyX4nccHTg%3D%3D)
 
 <div> 
 
