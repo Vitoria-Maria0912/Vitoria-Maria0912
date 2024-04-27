@@ -42,7 +42,7 @@
 
 [Database Exercises](https://github.com/Vitoria-Maria0912/Banco-de-Dados): Exercises I did to the database classes.
 
-
+[Theory of Computation](https://github.com/Vitoria-Maria0912/TC)
 
 
 
