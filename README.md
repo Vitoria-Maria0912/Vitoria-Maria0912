@@ -34,15 +34,16 @@
     
 ### Featured Repositories
 
-[Personal Projects](https://github.com/Vitoria-Maria0912/Personal_Projects): Projects I'm doing to learn new languages and tools, besides the college.
+<!-- [Personal Projects](https://github.com/Vitoria-Maria0912/Personal_Projects): Projects I'm doing to learn new languages and tools, besides the college. -->
 
 [Gerenciamento de Projetos](https://github.com/Vitoria-Maria0912/GerenciamentoProjetos): Project my group did to lear the functional and logic paradigms.
 
 [Data Structures and Algoritms Exercises](https://github.com/Vitoria-Maria0912/LEDA): Exercises I did to the Data Structure and Algorithms classes.
 
+[Theory of Computation](https://github.com/Vitoria-Maria0912/TC): Exercises I did with my time to Theory of Computation classes.
+
 [Database Exercises](https://github.com/Vitoria-Maria0912/Banco-de-Dados): Exercises I did to the database classes.
 
-[Theory of Computation](https://github.com/Vitoria-Maria0912/TC)
 
 
 
