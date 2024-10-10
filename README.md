@@ -22,7 +22,9 @@
 
 ### Featured Repositories
 
-[Gerenciamento de Projetos](https://github.com/Vitoria-Maria0912/GerenciamentoProjetos): Project my group did to learn the functional and logic paradigms.
+[Animals UFCG Site](https://github.com/Engenharia-de-Software-04): Project that my group did to facilitate the adoption of UFCG's animals in Software Engineering classes.
+
+[Gerenciamento de Projetos](https://github.com/Vitoria-Maria0912/GerenciamentoProjetos): Project that my group did to learn the functional and logic paradigms.
 
 [Livramento's Site](https://github.com/Vitoria-Maria0912/Hometown-Site): Page I made with some information and photos from my hometown. 
 
