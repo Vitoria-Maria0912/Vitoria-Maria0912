@@ -19,7 +19,7 @@
 </div>
 
 ##
-    
+
 ### Featured Repositories
 
 [Gerenciamento de Projetos](https://github.com/Vitoria-Maria0912/GerenciamentoProjetos): Project my group did to learn the functional and logic paradigms.
@@ -38,6 +38,8 @@
 
 [Linktree](https://github.com/Vitoria-Maria0912/Linktree): Page I made inspired by Linktree.
 
+##
+    
 ### Languagens & Tools 
 
 <div>
