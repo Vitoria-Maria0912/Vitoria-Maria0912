@@ -18,6 +18,26 @@
     <img align="center" heigh="180cm" src="https://github-readme-stats.vercel.app/api?username=Vitoria-Maria0912&shows_Github_logo_instead_ranklevel=true&theme=tokyonight"/>
 </div>
 
+##
+    
+### Featured Repositories
+
+[Gerenciamento de Projetos](https://github.com/Vitoria-Maria0912/GerenciamentoProjetos): Project my group did to learn the functional and logic paradigms.
+
+[Livramento's Site](https://github.com/Vitoria-Maria0912/Hometown-Site): Page I made with some information and photos from my hometown. 
+
+[Data Structures and Algoritms Exercises](https://github.com/Vitoria-Maria0912/LEDA): Exercises I did to the Data Structure and Algorithms classes.
+
+[Theory of Computation](https://github.com/Vitoria-Maria0912/TC): Exercises I did with my time to Theory of Computation classes.
+
+[Software Project](https://github.com/Vitoria-Maria0912/Projeto-de-Software): Tcc-Manager Project and Exercises done in Software Project classes. 
+
+[Database Exercises](https://github.com/Vitoria-Maria0912/Banco-de-Dados): Exercises I did to the database classes.
+
+[Social Media](https://github.com/Vitoria-Maria0912/Social-Media): Page I made inspired by Instragram.
+
+[Linktree](https://github.com/Vitoria-Maria0912/Linktree): Page I made inspired by Linktree.
+
 ### Languagens & Tools 
 
 <div>
@@ -41,26 +61,6 @@
     <br>
     <img align="center" alt="Swagger" height="150" widht="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg" />
 <div/>
-
-##
-    
-### Featured Repositories
-
-[Gerenciamento de Projetos](https://github.com/Vitoria-Maria0912/GerenciamentoProjetos): Project my group did to learn the functional and logic paradigms.
-
-[Livramento's Site](https://github.com/Vitoria-Maria0912/Hometown-Site): Page I made with some information and photos from my hometown. 
-
-[Data Structures and Algoritms Exercises](https://github.com/Vitoria-Maria0912/LEDA): Exercises I did to the Data Structure and Algorithms classes.
-
-[Theory of Computation](https://github.com/Vitoria-Maria0912/TC): Exercises I did with my time to Theory of Computation classes.
-
-[Software Project](https://github.com/Vitoria-Maria0912/Projeto-de-Software): Tcc-Manager Project and Exercises done in Software Project classes. 
-
-[Database Exercises](https://github.com/Vitoria-Maria0912/Banco-de-Dados): Exercises I did to the database classes.
-
-[Social Media](https://github.com/Vitoria-Maria0912/Social-Media): Page I made inspired by Instragram.
-
-[Linktree](https://github.com/Vitoria-Maria0912/Linktree): Page I made inspired by Linktree.
 
 
 
