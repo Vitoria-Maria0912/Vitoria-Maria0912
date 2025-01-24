@@ -60,6 +60,13 @@
     <img align="center" alt="React" height="70" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
     <img align="center" alt="NodeJS" height="70" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />     
     <img align="center" alt="Prisma" height="100" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" />
+<!--     <img align="center" alt="Clojure" height="70" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clojure/clojure-original.svg" /> -->
+<!--     <img align="center" alt="Angular" height="70" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" /> -->
+<!--     <img align="center" alt="AWS" height="70" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />   -->
+<!--     <img align="center" alt="Bash" height="70" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" /> -->
+<!--     <img align="center" alt="Go" height="70" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" /> -->
+<!--     <img align="center" alt="Next" height="70" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-line-wordmark.svg" /> -->
+<!--     <img align="center" alt="Ruby" height="70" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original-wordmark.svg" /> -->
     <br>
     <br>
     <img align="center" alt="Postgres" height="70" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
