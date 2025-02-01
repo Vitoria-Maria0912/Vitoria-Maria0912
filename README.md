@@ -4,13 +4,15 @@
     
 # Welcome to my Github profile!
 
-### I am a Computer Science undergraduate who loves to learn about new things, especially languages
+### I am a Computer Science undergraduate who loves to learn about new things, especially languages. 
+### Now, I am exploring the Full Stack world ...
 ##
 
 ### Let's get conected!
 
+[![Curriculum Lattes](https://img.shields.io/badge/Curriculum%20Lattes-000080?style=for-the-badge&logo=lattes&logoColor=white)](http://lattes.cnpq.br/3891602746578963)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vit%C3%B3ria-maria-do-nascimento-258899255?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BpJ7mDSN9QuWfDyX4nccHTg%3D%3D)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/VitóriaMaria#7307) 
+[![Discord](https://img.shields.io/badge/Discord-543DE0?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/VitóriaMaria#7307) 
 
 
 ### Github Estatistics
@@ -67,6 +69,7 @@
 <!--     <img align="center" alt="Go" height="70" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" /> -->
 <!--     <img align="center" alt="Next" height="70" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-line-wordmark.svg" /> -->
 <!--     <img align="center" alt="Ruby" height="70" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original-wordmark.svg" /> -->
+<!--     <img align="center" alt="Kafka" height="70" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" /> -->
     <br>
     <br>
     <img align="center" alt="Postgres" height="70" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
@@ -74,8 +77,4 @@
     <img align="center" alt="Docker" height="70" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
     <br>
     <img align="center" alt="Swagger" height="150" widht="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg" />
-<div/>
-
-
-
-
+<div/>          
