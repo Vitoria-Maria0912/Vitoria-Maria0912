@@ -32,6 +32,8 @@
 
 [Livramento's Site](https://github.com/Vitoria-Maria0912/Hometown-Site): Page I made with some information and photos from my hometown. 
 
+[Verification and Validation Testing Methods](https://github.com/Vitoria-Maria0912/VeV): Exercises my team did in Verification and Validation classes to learn testing methods.
+
 [Data Structures and Algoritms Exercises](https://github.com/Vitoria-Maria0912/LEDA): Exercises I did to the Data Structure and Algorithms classes.
 
 [Theory of Computation](https://github.com/Vitoria-Maria0912/TC): Exercises I did with my time to Theory of Computation classes.
