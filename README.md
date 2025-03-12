@@ -5,7 +5,7 @@
 # Welcome to my Github profile!
 
 ### I am a Computer Science undergraduate who loves to learn about new things, especially languages. 
-### Now, I am exploring the Full Stack world ...
+### Now, I am exploring the Full Stack and Data Engineer using AI, NLP, LLMs
 ##
 
 ### Let's get conected!
@@ -24,7 +24,7 @@
 
 ### Featured Repositories
 
-[CC_UFCG Optatives](https://github.com/Vitoria-Maria0912/optativas-cc-ufcg): Project I did to study full-stack development and facilitate the planning of specific course subjects.
+[CC_UFCG Optatives](https://github.com/Vitoria-Maria0912/optativas-cc-ufcg): Project I did to study full-stack development and deploy to facilitate the planning of all course subjects.
 
 [Animals UFCG Site](https://github.com/Engenharia-de-Software-04): Project that my group did to facilitate the adoption of UFCG's animals in Software Engineering classes.
 
@@ -32,9 +32,9 @@
 
 [Livramento's Site](https://github.com/Vitoria-Maria0912/Hometown-Site): Page I made with some information and photos from my hometown. 
 
-[Verification and Validation Testing Methods](https://github.com/Vitoria-Maria0912/VeV): Exercises my team did in Verification and Validation classes to learn testing methods.
-
 [Data Structures and Algoritms Exercises](https://github.com/Vitoria-Maria0912/LEDA): Exercises I did to the Data Structure and Algorithms classes.
+
+[Testing Techniques](https://github.com/Vitoria-Maria0912/VeV): Exercises my team did in Verification and Validation classes to learn testing techniques.
 
 [Theory of Computation](https://github.com/Vitoria-Maria0912/TC): Exercises I did with my time to Theory of Computation classes.
 
@@ -55,6 +55,7 @@
     <img align="center" alt="Typescript" height="40" widht="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
     <img align="center" alt="Java" height="60" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
     <img align="center" alt="Python" height="60" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+    <img align="center" alt="Clojure" height="45" widht="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clojure/clojure-original.svg" />
     <img align="center" alt="Prolog" height="70" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prolog/prolog-original-wordmark.svg" />
     <img align="center" alt="Haskell" height="100" widht="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original-wordmark.svg" />
     <br>
@@ -64,7 +65,6 @@
     <img align="center" alt="React" height="70" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
     <img align="center" alt="NodeJS" height="70" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />     
     <img align="center" alt="Prisma" height="100" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" />
-<!--     <img align="center" alt="Clojure" height="70" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clojure/clojure-original.svg" /> -->
 <!--     <img align="center" alt="Angular" height="70" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" /> -->
 <!--     <img align="center" alt="AWS" height="70" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />   -->
 <!--     <img align="center" alt="Bash" height="70" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" /> -->
