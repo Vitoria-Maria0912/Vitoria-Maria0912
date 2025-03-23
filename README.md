@@ -34,7 +34,7 @@
 
 [Data Structures and Algoritms Exercises](https://github.com/Vitoria-Maria0912/LEDA): Exercises I did to the Data Structure and Algorithms classes.
 
-[Testing Techniques](https://github.com/Vitoria-Maria0912/VeV): Exercises my team did in Verification and Validation classes to learn testing techniques.
+[Testing Techniques](https://github.com/Vitoria-Maria0912/Verificacao-e-Validacao-de-Software.git): Exercises my team did in Verification and Validation of Software classes to learn testing techniques.
 
 [Theory of Computation](https://github.com/Vitoria-Maria0912/TC): Exercises I did with my time to Theory of Computation classes.
 
