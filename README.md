@@ -38,6 +38,8 @@
 
 [Theory of Computation](https://github.com/Vitoria-Maria0912/TC): Exercises I did with my time to Theory of Computation classes.
 
+[Concurrent Programming](https://github.com/Vitoria-Maria0912/Programacao-Concorrente.git): Exercises my team did in Concurrent Programming classes.
+
 [Software Project](https://github.com/Vitoria-Maria0912/Projeto-de-Software): Tcc-Manager Project and Exercises done in Software Project classes. 
 
 [Database Exercises](https://github.com/Vitoria-Maria0912/Banco-de-Dados): Exercises I did to the database classes.
@@ -56,16 +58,15 @@
     <img align="center" alt="Java" height="60" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
     <img align="center" alt="Python" height="60" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
     <img align="center" alt="Prolog" height="70" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prolog/prolog-original-wordmark.svg" />
-    <img align="center" alt="Go" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
     <img align="center" alt="Clojure" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clojure/clojure-original.svg" />
     <img align="center" alt="Haskell" height="100" widht="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original-wordmark.svg" />
+    <img align="center" alt="Go" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
     <br>
     <img align="center" alt="Spring" height="80" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
     <img align="center" alt="HTML" height="70" widht="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
     <img align="center" alt="CSS" height="70" widht="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
     <img align="center" alt="React" height="70" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-    <img align="center" alt="NodeJS" height="70" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />     
-    <img align="center" alt="Prisma" height="100" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" />
+    <img align="center" alt="NodeJS" height="70" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />   
 <!--     <img align="center" alt="Angular" height="70" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" /> -->
 <!--     <img align="center" alt="AWS" height="70" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />   -->
 <!--     <img align="center" alt="Bash" height="70" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" /> -->
@@ -77,6 +78,10 @@
     <img align="center" alt="Postgres" height="70" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
     <img align="center" alt="MongoDB" height="70" widht="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
     <img align="center" alt="Docker" height="70" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+    <img align="center" alt="Prisma" height="100" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" />
+    <br>
+    <img align="center" alt="Selenium" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
+    <img align="center" alt="Cypress" height="100" widht="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original-wordmark.svg" />
     <br>
     <img align="center" alt="Swagger" height="150" widht="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg" />
 <div/>          
