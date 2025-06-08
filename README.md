@@ -24,7 +24,7 @@
 
 ### Featured Repositories
 
-[CC_UFCG Optatives](https://github.com/Vitoria-Maria0912/optativas-cc-ufcg): Project I did to study full-stack development and deploy to facilitate the planning of all course subjects.
+[CC_UFCG Optatives](https://github.com/Vitoria-Maria0912/Optatives-cc-ufcg): Project I did to study full-stack development and deploy to facilitate the planning of all course subjects.
 
 [Animals UFCG Site](https://github.com/Engenharia-de-Software-04): Project that my group did to facilitate the adoption of UFCG's animals in Software Engineering classes.
 
