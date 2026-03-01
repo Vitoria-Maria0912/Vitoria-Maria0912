@@ -4,7 +4,7 @@
     
 # Welcome to my Github profile!
 
-### I am a Computer Science undergraduate who loves to learn about new things, especially languages. 
+### I am a Computer Science undergraduate who loves to learn about new things, especially languages and frameworks. 
 ### Now, I am exploring the Full Stack and Data Engineer using AI, NLP, LLMs
 ##
 
@@ -13,12 +13,6 @@
 [![Curriculum Lattes](https://img.shields.io/badge/Curriculum%20Lattes-000080?style=for-the-badge&logo=lattes&logoColor=white)](http://lattes.cnpq.br/3891602746578963)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vit%C3%B3ria-maria-do-nascimento-258899255?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BpJ7mDSN9QuWfDyX4nccHTg%3D%3D)
 [![Discord](https://img.shields.io/badge/Discord-543DE0?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/VitóriaMaria#7307) 
-
-
-### Github Estatistics
-<div>
-    <img align="center" heigh="180cm" src="https://github-readme-stats.vercel.app/api?username=Vitoria-Maria0912&shows_Github_logo_instead_ranklevel=true&theme=tokyonight"/>
-</div>
 
 ##
 
